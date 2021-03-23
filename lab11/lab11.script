@@ -1,0 +1,71 @@
+Script started on Tue Dec  3 21:55:55 2019
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab11[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab11 % [K[?2004hccc lab11.c[?2004l
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab11[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab11 % [K[?2004h../a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Tue Dec  3 21:59:13 2019
+This program calculates the resitance dependent on the color of each of four bands.
+Enter the colors of the resistor’s three bands, staring with the one on the left.
+Menu of options to select from: 
+a) black
+b) brown
+c) red
+d) orange
+e) yellow
+f) green
+g) blue
+h) violet
+i) grey
+j) white
+z) BLANK
+Band 1: c
+Band 2: d
+Band 3: e
+Band 4: z
+Resistance value: 230000 kilo-ohms.
+Tolerance: 20.00%, or 184000.00 kilo-ohms to 276000.00 kilo-ohms variance.
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab11[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab11 % [K[?2004h../a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Tue Dec  3 21:59:29 2019
+This program calculates the resitance dependent on the color of each of four bands.
+Enter the colors of the resistor’s three bands, staring with the one on the left.
+Menu of options to select from: 
+a) black
+b) brown
+c) red
+d) orange
+e) yellow
+f) green
+g) blue
+h) violet
+i) grey
+j) white
+z) BLANK
+Band 1: h
+Band 2: f
+Band 3: d
+Band 4: c
+Resistance value: 75000 kilo-ohms.
+Tolerance: 2.00%, or 73500.00 kilo-ohms to 76500.00 kilo-ohms variance.
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab11[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab11 % [K[?2004h../a/ .out[?2004l
+Programmed by Gabrielle Lyons, compiled on Tue Dec  3 21:59:42 2019
+This program calculates the resitance dependent on the color of each of four bands.
+Enter the colors of the resistor’s three bands, staring with the one on the left.
+Menu of options to select from: 
+a) black
+b) brown
+c) red
+d) orange
+e) yellow
+f) green
+g) blue
+h) violet
+i) grey
+j) white
+z) BLANK
+Band 1: e
+Band 2: j
+Band 3: g
+Band 4: i
+Resistance value: 49000000 kilo-ohms.
+Tolerance: 0.05%, or 48975500.00 kilo-ohms to 49024500.00 kilo-ohms variance.
+[1m[7m%[27m[1m[0m                                                                                        ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab11[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab11 % [K[?2004heexit[?2004l
+
+Script done on Tue Dec  3 21:59:51 2019

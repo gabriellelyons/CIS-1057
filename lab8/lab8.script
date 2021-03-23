@@ -1,0 +1,27 @@
+Script started on Wed Oct 16 17:34:23 2019
+[?1034hbash-3.2$ cc lanb[K[Kb8.c
+bash-3.2$ ./a.out
+Programmed by Gabrielle Lyons, compiled on Wed Oct 16 17:34:34 2019
+This program will print the change owed to a customer.
+Enter amount due: 13.95
+You entered 13.95.
+Enter amount paid: 20
+You entered 20.00.
+Cashier will return:
+6 dollars
+1 nickel
+bash-3.2$ ./a.out
+Programmed by Gabrielle Lyons, compiled on Wed Oct 16 17:34:44 2019
+This program will print the change owed to a customer.
+Enter amount due: 56.79
+You entered 56.79.
+Enter amount paid: 65.32
+You entered 65.32.
+Cashier will return:
+8 dollars
+2 quarters
+2 pennies
+bash-3.2$ exit
+exit
+
+Script done on Wed Oct 16 17:35:18 2019

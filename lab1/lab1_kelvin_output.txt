@@ -1,0 +1,34 @@
+Script started on Sun Sep  8 14:51:07 2019
+[?1034hbash-3.2$ cc lab1_kelvin.c
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 100
+100.00 degrees fahrenheit is 310.93 in kelvin.
+ 100.000000F = 310.927774.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 75
+75.00 degrees fahrenheit is 297.04 in kelvin.
+ 75.000000F = 297.038886.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 5000
+5000.00 degrees fahrenheit is 3033.15 in kelvin.
+ 5000.000000F = 3033.149724.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: -5
+-5.00 degrees fahrenheit is 252.59 in kelvin.
+ -5.000000F = 252.594446.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 32
+32.00 degrees fahrenheit is 273.15 in kelvin.
+ 32.000000F = 273.150000.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 212
+212.00 degrees fahrenheit is 373.15 in kelvin.
+ 212.000000F = 373.149990.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: -40
+-40.00 degrees fahrenheit is 233.15 in kelvin.
+ -40.000000F = 233.150004.
+bash-3.2$ exit
+exit
+
+Script done on Sun Sep  8 14:51:52 2019

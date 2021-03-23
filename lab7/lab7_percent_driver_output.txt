@@ -1,0 +1,18 @@
+Script started on Wed Oct  9 17:49:52 2019
+[?1034hbash-3.2$ cc lab7_percent_driver.c
+bash-3.2$ ./a.out
+Enter an unknown boiling point: 1000    99
+Enter a known boiling point: 100.7
+The result is 1.
+bash-3.2$ ./a.out
+Enter an unknown boiling point: 80
+Enter a known boiling point: 100.7
+The result is 0.
+bash-3.2$ ./a.out
+Enter an unknown boiling point: 40
+Enter a known boiling point: 41.2
+The result is 1.
+bash-3.2$ exit
+exit
+
+Script done on Wed Oct  9 17:50:34 2019

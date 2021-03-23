@@ -1,0 +1,18 @@
+Script started on Sun Sep  8 14:54:06 2019
+[?1034hbash-3.2$ cc lab2.c
+bash-3.2$ ./a.out
+Enter an integer: 1
+Enter a greater integer: 2
+Your pythagorean triple is: 3 4 5.
+bash-3.2$ ./a.out
+Enter an integer: 3
+Enter a greater integer: 5
+Your pythagorean triple is: 16 30 34.
+bash-3.2$ ./a.out
+Enter an integer: 5
+Enter a greater integer: 10
+Your pythagorean triple is: 75 100 125.
+bash-3.2$ exit
+exit
+
+Script done on Sun Sep  8 14:54:34 2019

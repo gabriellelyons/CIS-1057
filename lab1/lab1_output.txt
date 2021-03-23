@@ -1,0 +1,34 @@
+Script started on Sun Sep  8 14:47:27 2019
+[?1034hbash-3.2$ cc lab1.c
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 100
+100.00 degrees fahrenheit is 37.78 in celsius.
+ 100.000000F = 37.777774.
+bash-3.2$ ./.a.[K[K[Ka.out
+Enter a temperature in fahrenheit: 75
+75.00 degrees fahrenheit is 23.89 in celsius.
+ 75.000000F = 23.888886.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 5000
+5000.00 degrees fahrenheit is 2760.00 in celsius.
+ 5000.000000F = 2759.999724.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: -5
+-5.00 degrees fahrenheit is -20.56 in celsius.
+ -5.000000F = -20.555553.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 32
+32.00 degrees fahrenheit is 0.00 in celsius.
+ 32.000000F = 0.000000.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: 212
+212.00 degrees fahrenheit is 100.00 in celsius.
+ 212.000000F = 99.999990.
+bash-3.2$ ./a.out
+Enter a temperature in fahrenheit: -40
+-40.00 degrees fahrenheit is -40.00 in celsius.
+ -40.000000F = -39.999996.
+bash-3.2$ exit
+exit
+
+Script done on Sun Sep  8 14:48:17 2019

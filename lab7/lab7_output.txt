@@ -1,0 +1,192 @@
+Script started on Wed Oct  9 17:51:26 2019
+[?1034hbash-3.2$ cc lab7.c
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 505
+You entered 505.0.
+This substance is unidentified.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 1148
+You entered 1148.0.
+This substance is unidentified.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 2702
+You entered 2702.0.
+You entered a boiling point of 2702.0, which is within 3% of the
+ substance Gold. 2702.0 is 0.07% away from the reference temperature
+ of 2700.0 for Gold.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 11 01
+You entered 101.0.
+You entered a boiling point of 101.0, which is within 3% of the
+ substance Water. 101.0 is 0.30% away from the reference temperature
+ of 100.7 for Water.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 99
+You entered 99.0.
+You entered a boiling point of 99.0, which is within 3% of the
+ substance Water. 99.0 is 1.69% away from the reference temperature
+ of 100.7 for Water.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 1750
+You entered 1750.0.
+This substance is unidentified.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: -80
+You entered -80.0.
+You entered a boiling point of -80.0, which is within 3% of the
+ substance Carbon Dioxide. -80.0 is -1.91% away from the reference temperature
+ of -78.5 for Carbon Dioxide.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 259 80
+You entered 2580.0.
+You entered a boiling point of 2580.0, which is within 3% of the
+ substance Copper. 2580.0 is 0.70% away from the reference temperature
+ of 2562.0 for Copper.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 2590
+You entered 2590.0.
+You entered a boiling point of 2590.0, which is within 3% of the
+ substance Copper. 2590.0 is 1.09% away from the reference temperature
+ of 2562.0 for Copper.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 560
+You entered 560.0.
+This substance is unidentified.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 450
+You entered 450.0.
+You entered a boiling point of 450.0, which is within 3% of the
+ substance Sulfur. 450.0 is 1.21% away from the reference temperature
+ of 444.6 for Sulfur.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 3255
+You entered 3255.0.
+You entered a boiling point of 3255.0, which is within 3% of the
+ substance Silicon. 3255.0 is 0.76% away from the reference temperature
+ of 3280.0 for Silicon.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 360
+You entered 360.0.
+You entered a boiling point of 360.0, which is within 3% of the
+ substance Mercury. 360.0 is 0.87% away from the reference temperature
+ of 356.9 for Mercury.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: -33
+You entered -33.0.
+This substance is unidentified.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 1200
+You entered 1200.0.
+This substance is unidentified.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 2858
+You entered 2858.0.
+You entered a boiling point of 2858.0, which is within 3% of the
+ substance Iron. 2858.0 is 0.14% away from the reference temperature
+ of 2862.0 for Iron.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 2 305
+You entered 305.0.
+You entered a boiling point of 305.0, which is within 3% of the
+ substance Olive Oil. 305.0 is 1.67% away from the reference temperature
+ of 300.0 for Olive Oil.
+bash-3.2$ ./a.out
+
+This program will take the boiling point of an unknown substance
+ then print what substance has a similar boiling point.
+This program was written by Gabrielle Lyons on October 9, 2019.
+
+Enter a boiling point for an unknown substance: 298
+You entered 298.0.
+You entered a boiling point of 298.0, which is within 3% of the
+ substance Olive Oil. 298.0 is 0.67% away from the reference temperature
+ of 300.0 for Olive Oil.
+bash-3.2$ exit
+exit
+
+Script done on Wed Oct  9 17:53:00 2019

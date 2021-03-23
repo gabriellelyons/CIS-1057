@@ -1,0 +1,113 @@
+Script started on Wed Oct 30 17:38:04 2019
+[1m[7m%[27m[1m[0m                                                                                ]7;file://30-35-ad-a7-97-a6.wireless.temple.edu/Users/gabriellelyons/lab9[0m[27m[24m[Jgabriellelyons@30-35-ad-a7-97-a6 lab9 % [K[?2004hccc lab9.c[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://30-35-ad-a7-97-a6.wireless.temple.edu/Users/gabriellelyons/lab9[0m[27m[24m[Jgabriellelyons@30-35-ad-a7-97-a6 lab9 % [K[?2004ha ../a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Oct 30 17:38:15 2019
+This program will determine if a value is in the following array.
+a[0]=2
+a[1]=2
+a[2]=3
+a[3]=4
+a[4]=5
+a[5]=9
+a[6]=17
+a[7]=18
+a[8]=19
+a[9]=21
+a[10]=22
+a[11]=27
+a[12]=33
+a[13]=39
+a[14]=40
+a[15]=42
+a[16]=43
+a[17]=48
+a[18]=49
+a[19]=54
+a[20]=57
+Enter value: 3
+You entered 3.
+3 is in the array.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://30-35-ad-a7-97-a6.wireless.temple.edu/Users/gabriellelyons/lab9[0m[27m[24m[Jgabriellelyons@30-35-ad-a7-97-a6 lab9 % [K[?2004h./a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Oct 30 17:38:25 2019
+This program will determine if a value is in the following array.
+a[0]=2
+a[1]=2
+a[2]=3
+a[3]=4
+a[4]=5
+a[5]=9
+a[6]=17
+a[7]=18
+a[8]=19
+a[9]=21
+a[10]=22
+a[11]=27
+a[12]=33
+a[13]=39
+a[14]=40
+a[15]=42
+a[16]=43
+a[17]=48
+a[18]=49
+a[19]=54
+a[20]=57
+Enter value: 24
+You entered 24.
+24 is not in the array.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://30-35-ad-a7-97-a6.wireless.temple.edu/Users/gabriellelyons/lab9[0m[27m[24m[Jgabriellelyons@30-35-ad-a7-97-a6 lab9 % [K[?2004h./a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Oct 30 17:38:36 2019
+This program will determine if a value is in the following array.
+a[0]=2
+a[1]=2
+a[2]=3
+a[3]=4
+a[4]=5
+a[5]=9
+a[6]=17
+a[7]=18
+a[8]=19
+a[9]=21
+a[10]=22
+a[11]=27
+a[12]=33
+a[13]=39
+a[14]=40
+a[15]=42
+a[16]=43
+a[17]=48
+a[18]=49
+a[19]=54
+a[20]=57
+Enter value: 55
+You entered 55.
+55 is not in the array.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://30-35-ad-a7-97-a6.wireless.temple.edu/Users/gabriellelyons/lab9[0m[27m[24m[Jgabriellelyons@30-35-ad-a7-97-a6 lab9 % [K[?2004h./a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Oct 30 17:38:42 2019
+This program will determine if a value is in the following array.
+a[0]=2
+a[1]=2
+a[2]=3
+a[3]=4
+a[4]=5
+a[5]=9
+a[6]=17
+a[7]=18
+a[8]=19
+a[9]=21
+a[10]=22
+a[11]=27
+a[12]=33
+a[13]=39
+a[14]=40
+a[15]=42
+a[16]=43
+a[17]=48
+a[18]=49
+a[19]=54
+a[20]=57
+Enter value: 2
+You entered 2.
+2 is in the array.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://30-35-ad-a7-97-a6.wireless.temple.edu/Users/gabriellelyons/lab9[0m[27m[24m[Jgabriellelyons@30-35-ad-a7-97-a6 lab9 % [K[?2004heexit[?2004l
+
+Script done on Wed Oct 30 17:38:55 2019

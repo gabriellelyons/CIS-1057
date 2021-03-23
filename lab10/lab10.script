@@ -1,0 +1,62 @@
+Script started on Wed Nov  6 18:02:08 2019
+[1m[7m%[27m[1m[0m                                                                                       ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab10[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab10 % [K[?2004hccc lab10.c[?2004l
+[1m[7m%[27m[1m[0m                                                                                       ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab10[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab10 % [K[?2004h, ../a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Nov  6 18:02:17 2019
+Let's play Mastermind!
+Enter a four-character key code:
+PGPY
+The key is: 
+Purple Green Purple Yellow
+Enter your guess:
+BYPB
+. + * .
+Try again.
+Enter your guess:
+PYPP
+* + * +
+Try again.
+Enter your guess:
+PGPY   PYP
+* + + +
+Try again.
+Enter your guess:
+PY GPY
+* * * *
+Congratulations, you won!
+[1m[7m%[27m[1m[0m                                                                                       ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab10[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab10 % [K[?2004h../A.OUT     ao .out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Nov  6 18:03:33 2019
+Let's play Mastermind!
+Enter a four-character key code:
+PPPP
+The key is: 
+Purple Purple Purple Purple
+Enter your guess:
+GBYB
+. . . .
+Try again.
+Enter your guess:
+G PPPP
+* * * *
+Congratulations, you won!
+[1m[7m%[27m[1m[0m                                                                                       ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab10[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab10 % [K[?2004h../A.OU    a.out[?2004l
+Programmed by Gabrielle Lyons, compiled on Wed Nov  6 18:03:52 2019
+Let's play Mastermind!
+Enter a four-character key code:
+GYGG
+The key is: 
+Green Yellow Green Green
+Enter your guess:
+PBYP
+. . + .
+Try again.
+Enter your guess:
+YGGG
++ + * *
+Try again.
+Enter your guess:
+GYGG
+* * * *
+Congratulations, you won!
+[1m[7m%[27m[1m[0m                                                                                       ]7;file://Gabrielles-MacBook-Air-2.local/Users/gabriellelyons/lab10[0m[27m[24m[Jgabriellelyons@Gabrielles-MacBook-Air-2 lab10 % [K[?2004hEEXIT  E  eexit[?2004l
+
+Script done on Wed Nov  6 18:04:19 2019

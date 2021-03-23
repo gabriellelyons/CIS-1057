@@ -1,0 +1,66 @@
+Script started on Wed Oct  2 18:37:34 2019
+[?1034hbash-3.2$ c lab[K[K[K[Kc lab6.c
+bash-3.2$ ./a.ot[Kut
+
+This program will print the US and Julian dates for an input month, day, and year.
+This program was written by Gabrielle Lyons on October 2, 2019.
+
+Enter the month: 2
+Enter the day: 29
+Enter the year: 2000
+02/29/2000 is the 2000060.
+
+bash-3.2$ ./a.out
+
+This program will print the US and Julian dates for an input month, day, and year.
+This program was written by Gabrielle Lyons on October 2, 2019.
+
+Enter the month: 5
+Enter the day: 6
+Enter the year: 2001  19
+05/06/2019 is the 2019126.
+
+bash-3.2$ ./a.out
+
+This program will print the US and Julian dates for an input month, day, and year.
+This program was written by Gabrielle Lyons on October 2, 2019.
+
+Enter the month: 13
+Enter the day: 1
+Enter the year: 2000
+***ERROR: NOT A VALID DATE***
+***ERROR: NOT A VALID DATE***
+bash-3.2$ ./a.out
+
+This program will print the US and Julian dates for an input month, day, and year.
+This program was written by Gabrielle Lyons on October 2, 2019.
+
+Enter the month: 4
+Enter the day: 40
+Enter the year: 2000
+***ERROR: NOT A VALID DATE***
+***ERROR: NOT A VALID DATE***
+bash-3.2$ ./a.out
+
+This program will print the US and Julian dates for an input month, day, and year.
+This program was written by Gabrielle Lyons on October 2, 2019.
+
+Enter the month: 4
+Enter the day: 5
+Enter the year: 18000     0
+***ERROR: NOT A VALID DATE***
+***ERROR: NOT A VALID DATE***
+bash-3.2$ ./a.out[K./a.out
+
+This program will print the US and Julian dates for an input month, day, and year.
+This program was written by Gabrielle Lyons on October 2, 2019.
+
+Enter the month: 2 3
+Enter the day: 1
+Enter the year: 2 1 2019
+03/01/2019 is the 2019060.
+
+bash-3.2$ exit
+exit
+
+Script done on Wed Oct  2 18:39:12 2019

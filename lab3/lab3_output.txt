@@ -1,0 +1,76 @@
+Script started on Wed Sep 11 17:40:41 2019
+[?1034hbash-3.2$ cc lab3.c
+bash-3.2$ ./a.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 2015
+Predicted Gotham City population for 2015 (in thousands): 107.566 thousand.
+
+bash-3.2$ ./a.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 1995
+Predicted Gotham City population for 1995 (in thousands): 63.886 thousand.
+
+bash-3.2$ ./a.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 2004
+Predicted Gotham City population for 2004 (in thousands): 83.542 thousand.
+
+bash-3.2$ ./a.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 1990
+Predicted Gotham City population for 1990 (in thousands): 52.966 thousand.
+
+bash-3.2$ ./.[Ka.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 2020
+Predicted Gotham City population for 2020 (in thousands): 118.486 thousand.
+
+bash-3.2$ ./a.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 2050
+Predicted Gotham City population for 2050 (in thousands): 184.006 thousand.
+
+bash-3.2$ ./a.out
+
+This program will calculate the population
+growth in the city of Gotham.
+
+This program was written by Gabrielle Lyons.
+
+Enter a year after 1990: 2100
+Predicted Gotham City population for 2100 (in thousands): 293.206 thousand.
+
+bash-3.2$ exit
+exit
+
+Script done on Wed Sep 11 17:41:39 2019

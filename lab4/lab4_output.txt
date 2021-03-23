@@ -1,0 +1,72 @@
+Script started on Wed Sep 18 17:49:41 2019
+[?1034hbash-3.2$ cc lab4.c
+bash-3.2$ ./a.out
+
+This program will print receipts for Keith's Sheet Music
+with discounts clearly spelled out.
+
+This program was written by Gabrielle Lyons on September 18, 2019.
+
+Enter purchase total: 122.00
+Enter 1 if the purchaser is a teacher: 1
+Total purchases				$122.00
+Teacher's discount (12 percent)		14.64
+Discounted total			107.36
+Sales tax (5 percent)			5.37
+Total					$112.73
+bash-3.2$ ./a.outcc lab4.c[2P./a.out
+
+This program will print receipts for Keith's Sheet Music
+with discounts clearly spelled out.
+
+This program was written by Gabrielle Lyons on September 18, 2019.
+
+Enter purchase total: 24.90
+Enter 1 if the purchaser is a teacher: 0
+Total purchases			$24.90
+Sales tax (5 percent)		1.25
+Total				$26.14
+bash-3.2$ ./a.out
+
+This program will print receipts for Keith's Sheet Music
+with discounts clearly spelled out.
+
+This program was written by Gabrielle Lyons on September 18, 2019.
+
+Enter purchase total: 140.00
+Enter 1 if the purchaser is a teacher: 0
+Total purchases			$140.00
+Sales tax (5 percent)		7.00
+Total				$147.00
+bash-3.2$ ./a.out
+
+This program will print receipts for Keith's Sheet Music
+with discounts clearly spelled out.
+
+This program was written by Gabrielle Lyons on September 18, 2019.
+
+Enter purchase total: 175.00^[[D^[[D              275.00
+Enter 1 if the purchaser is a teacher: 1
+Total purchases				$275.00
+Teacher's discount (12 percent)		33.00
+Discounted total			242.00
+Sales tax (5 percent)			12.10
+Total					$254.10
+bash-3.2$ ./a.out
+
+This program will print receipts for Keith's Sheet Music
+with discounts clearly spelled out.
+
+This program was written by Gabrielle Lyons on September 18, 2019.
+
+Enter purchase total: 66.00
+Enter 1 if the purchaser is a teacher: 1
+Total purchases				$66.00
+Teacher's discount (10 percent)		6.60
+Discounted total			59.40
+Sales tax (5 percent)			2.97
+Total					$62.37
+bash-3.2$ exit
+exit
+
+Script done on Wed Sep 18 17:50:56 2019

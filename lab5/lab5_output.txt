@@ -1,0 +1,87 @@
+Script started on Wed Sep 25 18:08:29 2019
+[?1034hbash-3.2$ cc lab5c[K.c
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 3
+You entered: 3.
+The factorial approximation for your input is 6. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 4
+You entered: 4.
+The factorial approximation for your input is 24. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 5
+You entered: 5.
+The factorial approximation for your input is 120. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 7
+You entered: 7.
+The factorial approximation for your input is 5039. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 9
+You entered: 9.
+The factorial approximation for your input is 362851. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 10
+You entered: 10.
+The factorial approximation for your input is 3628561. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 15
+You entered: 15.
+The factorial approximation for your input is 1307635379663. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 20
+You entered: 20.
+The factorial approximation for your input is 2432860847986071552. 
+
+bash-3.2$ ./a.out
+
+This program will estimate the value of a factorial using Gosper's algorithm.
+This program was written by Gabrielle Lyons on September 25, 2019.
+
+Enter a positive integer: 1000
+You entered: 1000.
+The factorial approximation for your input is nan. 
+
+bash-3.2$ exit
+exit
+
+Script done on Wed Sep 25 18:09:08 2019
